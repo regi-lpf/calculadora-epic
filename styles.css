@@ -6,7 +6,11 @@ body{
     align-items: center;
     padding: 10dvh;
     justify-items: center;
-    background-color: black;
+    background: url(./wallpaper.jpg);
+    backdrop-filter: brightness(50%);
+    background-size: 150dvw;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 h1{
